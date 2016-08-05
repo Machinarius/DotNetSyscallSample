@@ -1,0 +1,5 @@
+Name: SyscallTest.Native
+Description: 
+Version: 0.1
+Libs: -L"/home/machinarius/Development/OperatingSystems/SyscallTest.Native/bin/Release" -lSyscallTest
+Cflags: -I""
